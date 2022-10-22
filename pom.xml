@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ruff-app</finalName>
+		<finalName>ruff</finalName>
 		
 		<plugins>
 			<plugin>
