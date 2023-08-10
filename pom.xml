@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ruffpipe</finalName>
+		<finalName>ruffpipes</finalName>
 		
 		<plugins>
 			<plugin>
